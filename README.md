@@ -1,1 +1,1 @@
-# SOLID-Prenciples
+# SOLID-Principles
